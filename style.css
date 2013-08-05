@@ -99,3 +99,9 @@ a:hover {
 
   line-height: 20px;
 }
+.tools {
+  font-size:12px !important;
+  color: #B84843;
+  margin-left: 10px !important;
+  font-style: italic;
+}
